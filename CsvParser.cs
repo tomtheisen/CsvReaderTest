@@ -95,5 +95,4 @@ class CsvParser {
                 goto RawCell;
         }
     }
-
 }
